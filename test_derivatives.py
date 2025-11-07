@@ -4,7 +4,7 @@
 """
 
 import sympy as sp
-from main import DerivativeCalculator  # Импортируем наш калькулятор из main.py
+from main import DerivativeCalculator
 
 def run_all_tests():
     """
